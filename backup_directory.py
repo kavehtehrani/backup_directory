@@ -1,3 +1,6 @@
+# Kaveh Tehrani
+# Small script for overnight backups to my remote drives.
+
 import argparse
 import os
 import datetime
